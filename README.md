@@ -1,2 +1,8 @@
-# Cool_sensehat_projects
-this includes an International space station tracker and so much more this is still just a work in progress you can download and edit yourself to 
+This repo contains Python scripts written for the Pi Sense Hat
+
+The SenseHatMain.py script contains:
+
+* joystick driven menu
+* live tracking of the ISS station: latitude/longitude, visibility, country, timezone and (some) flags
+* a level with 2 crossing visor lines
+* examples of all sensors (temperature, pressure, sealevel, IMU)
